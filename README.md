@@ -3,7 +3,7 @@
 TesteLeituraTecladoShort
 
 
-Teste de leitura de dados do tipo Short (primitivo numérico) usando a classe Scanner em Java.
+Teste de leitura de dados do tipo short (primitivo numérico) usando a classe Scanner em Java.
 
 Código feito utilizando o IDE Intellij IDEA.
 
